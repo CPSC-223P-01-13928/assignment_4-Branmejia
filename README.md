@@ -151,7 +151,7 @@
 	2. Add weather data
 	3. Print daily report
 	4. Print historical report
-	9. Exit the program
+	
 
 	Enter menu choice: 9
     ```
